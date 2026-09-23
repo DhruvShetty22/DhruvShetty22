@@ -1,12 +1,12 @@
 # Hi, I'm Dhruv 👋
 
-Student at **IIT Kanpur** · Open-source contributor · Building  .
+Student at **IIT Kanpur** · Open-source contributor · Learning  .
 
 ---
 
 ### What I've been up to
 
--  **Google Summer of Code 2026 @ [Zulip](https://github.com/zulip/zulip)** — *Make Zulip Integrations Accessible: Webhook Infrastructure and Data Importing Pipeline*
+-  **Google Summer of Code 2026 @ [Zulip](https://github.com/zulip/zulip)** *Make Zulip Integrations Accessible: Webhook Infrastructure and Data Importing Pipeline*
   Webhook integrations (GitHub, Jira, Azure and more), Slack Canvas import support, permission management across ownership transfers, automated topic renaming, and accessibility work on screen-reader-friendly components. 20+ merged PRs across backend, UX and docs. → [Project writeup](https://gist.github.com/DhruvShetty22/ebe6df7db0eddfe3810ec6dcc365910b/)
 
 -  **Software Development Intern @ ImBesideYou Inc. (Japan)**  Jan–Jul 2026
